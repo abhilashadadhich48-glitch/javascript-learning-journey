@@ -1,8 +1,5 @@
-/* data types
-
-// ==========================================
 // JAVASCRIPT DATA TYPES
-// ==========================================
+
 
 // What are Data Types?
 // Data types define what kind of value a variable stores.
